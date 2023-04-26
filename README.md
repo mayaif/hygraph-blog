@@ -1,3 +1,18 @@
+# hygraph-blog 
+
+Headless Blog website with NextJS and React, Tailwind CSS for styling and Hygraph for content management with GraphQl as query language. It 
+has featured and recent posts, categories, full markdown articles, author information, comments and it is fully responsive.
+
+Fork and clone this repository to create your own blog website.
+
+Setup: 
+
+npm install && npm run dev
+
+** Important 
+  Create an Hygraph account -> new project -> settings: create an auth token and endpoint (content API). Add these as environment variables.
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
