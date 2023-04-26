@@ -9,7 +9,7 @@ Setup:
 
 npm install && npm run dev
 
-** Important 
+** Important: 
   Create an Hygraph account -> new project -> settings: create an auth token and endpoint (content API). Add these as environment variables.
 
 
